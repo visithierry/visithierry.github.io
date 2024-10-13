@@ -128,8 +128,17 @@
                 "file": "index.md"
               }
             }
+          },
+          {
+            "id": "2e360af749f1e739",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,11 +156,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "335b42f5c3e07570",
+  "active": "2e360af749f1e739",
   "lastOpenFiles": [
+    "FPA/FPA.md",
+    "index.md",
+    "FPA",
     "category-folder/Some note.md",
     "category-folder/index.md",
-    "index.md",
     "category-folder"
   ]
 }
